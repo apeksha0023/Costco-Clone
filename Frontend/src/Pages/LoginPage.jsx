@@ -32,7 +32,7 @@ import {
           title: "Failed",
           description: `Wrong Credentials`,
           status: "error",
-          duration: 9000,
+          duration: 8000,
           isClosable: true,
         };
         toast(cartObj);
